@@ -16,7 +16,7 @@ Abre una terminal y ejecuta:
 
 ```bash
 git clone https://github.com/Nekolas777/experimentos-lab-02.git
-cd lab02_shop_cart
+cd experimentos-lab-02
 ```
 
 ### 2️⃣ Instalar dependencias
@@ -48,3 +48,7 @@ Para iniciar el servidor en modo desarrollo y observar los cambios en tiempo rea
 ```bash
 npm run dev
 ```
+
+## Ejemplo de salida
+
+<img src="./public/images/example-output.png" alt="Ejemplo de salida" style="width: 100%;" />
