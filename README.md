@@ -33,20 +33,11 @@ Si deseas ejecutar únicamente las pruebas del archivo `shop-cart.test.ts`, util
 npx jest tests/shop-cart.test.ts
 ```
 
-### 4️⃣ Ejecutar todas las pruebas
+### 4️⃣ Ejecutar todas las pruebas (Opcional)
 Si deseas ejecutar todas las pruebas unitarias del proyecto, utiliza el siguiente comando:
 
 ```bash
 npm test
-```
-
-Esto ejecutará todas las pruebas definidas en los archivos dentro de la carpeta `tests`.
-
-### 5️⃣ Iniciar el servidor en modo desarrollo
-Para iniciar el servidor en modo desarrollo y observar los cambios en tiempo real, utiliza el siguiente comando:
-
-```bash
-npm run dev
 ```
 
 ## Ejemplo de salida
